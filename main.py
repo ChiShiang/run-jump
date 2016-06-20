@@ -9,4 +9,7 @@ def counting(start, end):
 		print(i)
 
 def high_jump:
-	print(“double jumple”)
+	print("double jumple")
+
+def run_faster:
+	print("the running attribute has been improved")
