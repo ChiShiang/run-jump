@@ -4,5 +4,9 @@ pritn("Hi , here is the git test")
 for i in range(1,10):
 	print(i)
 
-def high_jump:
+def high_jump():
 	print(“double jumple”)
+
+def j_attack():
+	high_jump()
+	print(“attck”)
